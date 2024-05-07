@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nhut Nguyen, this RCAA stands for Robotics Control And Automatic
+- 👀 I’m interested in robotics, embedded systems, sports, and photography.
+- 🌱 I’m currently learning robotics, c language code, and simulation apps.
+- 💞️ I’m looking to collaborate on a working project, together with robot projects and research techniques.
+- 📫 Email: shineforworks@gmail.com
