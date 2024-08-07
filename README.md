@@ -2,4 +2,3 @@
 - 👀 I’m interested in embedded systems, robotics, sports, and photography.
 - 🌱 I’m familiar with C language, low-level programming, robotics objectives, and simulation apps.
 - 💞️ I’m looking to collaborate on a working project, together with a passion for embedded systems, robot projects, and research techniques.
-- 📫 Email: shineforworks@gmail.com
